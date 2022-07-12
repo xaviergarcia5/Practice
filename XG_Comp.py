@@ -8,8 +8,25 @@ def compute_mean_depth(EQList):
 	'''
 	depth_list = [x.depth for x in EQList] # x is one object in EQList
 	#average of depth_list
+<<<<<<< HEAD
 	depth_list_mean = np. mean(depth_list)
 	print(depth_list_mean)
+=======
+	depthlist_mean = np. mean(depth_list)
+	print(depthlist_mean)
+	
+	
+
+
+
+
+
+
+
+
+
+
+>>>>>>> cde9ca088d02f81c083553f52c3888c95d70aa24
 	return mean_depth:
 
 	x = (1+2)
