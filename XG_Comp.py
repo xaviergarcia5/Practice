@@ -16,17 +16,6 @@ def compute_mean_depth(EQList):
 	print(depthlist_mean)
 	
 	
-
-
-
-
-
-
-
-
-
-
->>>>>>> cde9ca088d02f81c083553f52c3888c95d70aa24
 	return mean_depth:
 
 	x = (1+2)
